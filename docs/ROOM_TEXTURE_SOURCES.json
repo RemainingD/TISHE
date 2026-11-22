@@ -1,0 +1,37 @@
+[
+  {
+    "asset": "rough_linen",
+    "file": "Assets\\Resources\\Art\\LinenColor.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rough_linen/rough_linen_diff_2k.jpg",
+    "license": "CC0",
+    "sha256": "e71016e08dfebea1dd4e8a2a675e3b617a889a782af782f1abb795906f4db1b4"
+  },
+  {
+    "asset": "rough_linen",
+    "file": "Assets\\Resources\\Art\\LinenNormal.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rough_linen/rough_linen_nor_gl_2k.jpg",
+    "license": "CC0",
+    "sha256": "c5733ad50cfe0f90c546f3d4076590c1c78a4fd1a83c967cc9c92dc8175b99e6"
+  },
+  {
+    "asset": "dirty_carpet",
+    "file": "Assets\\Resources\\Art\\CarpetColor.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/dirty_carpet/dirty_carpet_diff_2k.jpg",
+    "license": "CC0",
+    "sha256": "6337d3ef1a11ca8bea2d31b86da15a65f10ae92c7f3345fae62924bae194f6c0"
+  },
+  {
+    "asset": "dirty_carpet",
+    "file": "Assets\\Resources\\Art\\CarpetNormal.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/dirty_carpet/dirty_carpet_nor_gl_2k.jpg",
+    "license": "CC0",
+    "sha256": "b59b74a4aa2ef9389704019d376cdca1f5f799490632a6aca8583bb3280b9117"
+  },
+  {
+    "asset": "domestic_finishes",
+    "file": "Assets\\Resources\\Art\\DomesticFinishes.png",
+    "source": "Original material atlas generated for TISHE with OpenAI ImageGen",
+    "art_direction": "Four flat, seamless domestic surfaces in a 2 by 2 atlas: top left faded botanical paper, top right chipped sage paint, bottom left old celadon tile with dull grout, bottom right aged ceiling limewash. Photograph straight on with even light, real material scale and no objects.",
+    "sha256": "14dff96234b357a0d5668a64aeef3090bf412f0667e26e32473c6c697f167858"
+  }
+]

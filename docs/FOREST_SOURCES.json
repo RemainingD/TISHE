@@ -1,0 +1,79 @@
+[
+  {
+    "file": "FirColor.jpg",
+    "asset": "fir_tree_01",
+    "license": "CC0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fir_tree_01/fir_tree_01_twig_diff_1k.jpg",
+    "sha256": "8c0833a10e4fd44498d848cf9e659fe250a3813984cbd679f42430eb98c61fb8"
+  },
+  {
+    "file": "FirAlpha.jpg",
+    "asset": "fir_tree_01",
+    "license": "CC0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fir_tree_01/fir_tree_01_twig_alpha_1k.jpg",
+    "sha256": "1f0607dd457c32406717daffe5049b1d2248c497589c83795c623c5e8b03e542"
+  },
+  {
+    "file": "PineColor.jpg",
+    "asset": "pine_tree_01",
+    "license": "CC0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pine_tree_01/pine_tree_01_twig_diff_1k.jpg",
+    "sha256": "e649f0f9bc74d1af5f1a45eaf2fe7a29adaaddfab251f746b983da301e4b80e1"
+  },
+  {
+    "file": "PineAlpha.jpg",
+    "asset": "pine_tree_01",
+    "license": "CC0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/pine_tree_01/pine_tree_01_twig_alpha_1k.jpg",
+    "sha256": "bee10734c529a874570da6e4091758de5cc7dee17a359eeacd9c67fde1cb0947"
+  },
+  {
+    "file": "BarkColor.jpg",
+    "asset": "fir_tree_01",
+    "license": "CC0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fir_tree_01/fir_tree_01_bark_diff_1k.jpg",
+    "sha256": "a5d25150ba1bee10008c039f98aa3c73b4477a404d6715c511ca9b5b0f4a9077"
+  },
+  {
+    "file": "BarkNormal.jpg",
+    "asset": "fir_tree_01",
+    "license": "CC0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fir_tree_01/fir_tree_01_bark_nor_gl_1k.jpg",
+    "sha256": "6a570ab53ab2249ecdfa93e7d3b9a8a2cb1a8ad391400e5a64c708914779b2c3"
+  },
+  {
+    "file": "ForestFloorColor.jpg",
+    "asset": "forest_floor",
+    "license": "CC0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/forest_floor/forest_floor_diff_1k.jpg",
+    "sha256": "f12e5adea1741f9eb7a528bfc621f8267885b9530b74c3a8afdb823899bdbf0b"
+  },
+  {
+    "file": "ForestFloorNormal.jpg",
+    "asset": "forest_floor",
+    "license": "CC0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/forest_floor/forest_floor_nor_gl_1k.jpg",
+    "sha256": "681f3de8c756c4d19bcda33039f953295498f38b1425ce9d56b37d6f97f6e518"
+  },
+  {
+    "file": "TrailColor.jpg",
+    "asset": "forest_ground_04",
+    "license": "CC0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/forest_ground_04/forest_ground_04_diff_1k.jpg",
+    "sha256": "50a4dda30875020c64385261aa7e00e2155b592302fa6794165f58fae73cbd2c"
+  },
+  {
+    "file": "FernColor.jpg",
+    "asset": "fern_02",
+    "license": "CC0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fern_02/fern_02_diff_1k.jpg",
+    "sha256": "a828a6e7b4c01c826911e2eac4b3afc7457dab7b3b392a31c681ed88b7d50029"
+  },
+  {
+    "file": "FernAlpha.jpg",
+    "asset": "fern_02",
+    "license": "CC0",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/fern_02/fern_02_alpha_1k.jpg",
+    "sha256": "4d8c4d57373651e500f1a3b2071cd59d2d9cc031bc30ff73bc8a5d2b2c91571a"
+  }
+]

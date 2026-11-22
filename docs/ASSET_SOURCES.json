@@ -1,0 +1,72 @@
+[
+  {
+    "asset": "blue_plaster_weathered",
+    "file": "Assets\\Resources\\Art\\PlasterColor.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/blue_plaster_weathered/blue_plaster_weathered_diff_2k.jpg",
+    "license": "CC0",
+    "sha256": "eed0bd3b1484730adb8e79ee767ba9119beeb14ea80d348e4f4ac35e0c530ed9"
+  },
+  {
+    "asset": "blue_plaster_weathered",
+    "file": "Assets\\Resources\\Art\\PlasterNormal.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/blue_plaster_weathered/blue_plaster_weathered_nor_gl_2k.jpg",
+    "license": "CC0",
+    "sha256": "3865f6257ca1b74ad0a83e5e3be6a20d135003fa93abad5e7a730270a1f835cf"
+  },
+  {
+    "asset": "old_wood_floor",
+    "file": "Assets\\Resources\\Art\\FloorColor.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/old_wood_floor/old_wood_floor_diff_2k.jpg",
+    "license": "CC0",
+    "sha256": "5f07d01e98599d2cd90355145ef71733afda8f3756c94e0d0de26aa92f826400"
+  },
+  {
+    "asset": "old_wood_floor",
+    "file": "Assets\\Resources\\Art\\FloorNormal.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/old_wood_floor/old_wood_floor_nor_gl_2k.jpg",
+    "license": "CC0",
+    "sha256": "17765f0cfc94a8e38cba2e8de29de25f0b0bd7dd6e940b385ea15989751fbfe3"
+  },
+  {
+    "asset": "oak_wood_planks",
+    "file": "Assets\\Resources\\Art\\WoodColor.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/oak_wood_planks/oak_wood_planks_diff_2k.jpg",
+    "license": "CC0",
+    "sha256": "ec3d2deb1fe21150ede5f987b48c691b3c7dbffe4183850a9b8717e904917a46"
+  },
+  {
+    "asset": "oak_wood_planks",
+    "file": "Assets\\Resources\\Art\\WoodNormal.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/oak_wood_planks/oak_wood_planks_nor_gl_2k.jpg",
+    "license": "CC0",
+    "sha256": "340a51d81e5ec2ead28a1c864637375becb00a1e11861e47a72dde4c03950968"
+  },
+  {
+    "asset": "mossy_stone_wall",
+    "file": "Assets\\Resources\\Art\\StoneColor.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/mossy_stone_wall/mossy_stone_wall_diff_2k.jpg",
+    "license": "CC0",
+    "sha256": "4c41e62e3c6b0af73b89bd3c9c46c55f3723a36789475d3ff76fe112d89d45e2"
+  },
+  {
+    "asset": "mossy_stone_wall",
+    "file": "Assets\\Resources\\Art\\StoneNormal.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/mossy_stone_wall/mossy_stone_wall_nor_gl_2k.jpg",
+    "license": "CC0",
+    "sha256": "5b0bc44304093ebb2307d91fe6f7f7b0c4af1ccbd84025a8c36c97da981be5cb"
+  },
+  {
+    "asset": "grey_roof_tiles",
+    "file": "Assets\\Resources\\Art\\RoofColor.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/grey_roof_tiles/grey_roof_tiles_diff_2k.jpg",
+    "license": "CC0",
+    "sha256": "f0ccddb07c8b21cd7825fd2c4cdf04cff23ec9fc52a92578122036ccf22a8a90"
+  },
+  {
+    "asset": "grey_roof_tiles",
+    "file": "Assets\\Resources\\Art\\RoofNormal.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/grey_roof_tiles/grey_roof_tiles_nor_gl_2k.jpg",
+    "license": "CC0",
+    "sha256": "e91134466a2aec440eae42ccef20f7055d87bf8caac208555eb1f069578eb29a"
+  }
+]

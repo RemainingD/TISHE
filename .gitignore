@@ -1,0 +1,15 @@
+/Library/
+/Temp/
+/Obj/
+/Logs/
+/UserSettings/
+/Builds/
+*.csproj
+*.sln
+*.log
+.vs/
+.DS_Store
+**/__pycache__/
+*.pyc
+/QA/
+validation-results.txt

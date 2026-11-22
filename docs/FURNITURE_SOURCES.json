@@ -1,0 +1,212 @@
+[
+  {
+    "asset": "Rockingchair_01",
+    "file": "Assets\\Resources\\Models\\Rockingchair_01\\Model.fbx",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/Rockingchair_01/Rockingchair_01_2k.fbx",
+    "license": "CC0",
+    "sha256": "e7d1deec4e75c9259ce2f6a24a127e45018458f241661ef3275fec9792bad3ef"
+  },
+  {
+    "asset": "Rockingchair_01",
+    "file": "Assets\\Resources\\Models\\Rockingchair_01\\Color.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/Rockingchair_01/Rockingchair_01_diff_2k.jpg",
+    "license": "CC0",
+    "sha256": "dbfac1542de3426b62753596f699a861c9e88c22b1a896ad4ddf5b617f8d0cba"
+  },
+  {
+    "asset": "Rockingchair_01",
+    "file": "Assets\\Resources\\Models\\Rockingchair_01\\Normal.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/Rockingchair_01/Rockingchair_01_nor_gl_2k.jpg",
+    "license": "CC0",
+    "sha256": "15941c542d5f70d3ba12e2f263f39793bca6ca77cfcd3ca1455873ab46096d3d"
+  },
+  {
+    "asset": "WoodenChair_01",
+    "file": "Assets\\Resources\\Models\\WoodenChair_01\\Model.fbx",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/WoodenChair_01/WoodenChair_01_2k.fbx",
+    "license": "CC0",
+    "sha256": "e38fd245aecfe62703edfc93e4f9c4d621d99da9bfbe0981da90d9cb9bd7f867"
+  },
+  {
+    "asset": "WoodenChair_01",
+    "file": "Assets\\Resources\\Models\\WoodenChair_01\\Color.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/WoodenChair_01/WoodenChair_01_diff_2k.jpg",
+    "license": "CC0",
+    "sha256": "0a542d26b33bc66bb25c5c03d358aef102a7c59daf1d66b87b326706575f0b77"
+  },
+  {
+    "asset": "WoodenChair_01",
+    "file": "Assets\\Resources\\Models\\WoodenChair_01\\Normal.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/WoodenChair_01/WoodenChair_01_nor_gl_2k.jpg",
+    "license": "CC0",
+    "sha256": "6485d80a91e96ce4ac402469e97a5093c8494f4c482538562dc5f395947b3ebf"
+  },
+  {
+    "asset": "GothicCabinet_01",
+    "file": "Assets\\Resources\\Models\\GothicCabinet_01\\Model.fbx",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/GothicCabinet_01/GothicCabinet_01_2k.fbx",
+    "license": "CC0",
+    "sha256": "2b8e0f4e418c94e3050e545b20623c16dbbfac84f72f74947ba9169f8cc76561"
+  },
+  {
+    "asset": "GothicCabinet_01",
+    "file": "Assets\\Resources\\Models\\GothicCabinet_01\\Color.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/GothicCabinet_01/GothicCabinet_01_diff_2k.jpg",
+    "license": "CC0",
+    "sha256": "6ebf60314f64294de357e1a50f33c57612c9ab6cf994b405cf9d40eb97d5152d"
+  },
+  {
+    "asset": "GothicCabinet_01",
+    "file": "Assets\\Resources\\Models\\GothicCabinet_01\\Normal.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/GothicCabinet_01/GothicCabinet_01_nor_gl_2k.jpg",
+    "license": "CC0",
+    "sha256": "0606f08f28cae007dbe71572bd321ab3431a83c3a0dd9fb215ed4372227e14c4"
+  },
+  {
+    "asset": "ArmChair_01",
+    "file": "Assets\\Resources\\Models\\ArmChair_01\\Model.fbx",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/ArmChair_01/ArmChair_01_2k.fbx",
+    "license": "CC0",
+    "sha256": "a1d7b2a98ff37c69019af10001a99b72fca44ce5bdffb7056ee3c6bfab084d22"
+  },
+  {
+    "asset": "ArmChair_01",
+    "file": "Assets\\Resources\\Models\\ArmChair_01\\Color.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/ArmChair_01/Armchair_01_diff_2k.jpg",
+    "license": "CC0",
+    "sha256": "d45d6f6328a924b5099deb7ed88023ab066128a376ee2d16f48149872cec47de"
+  },
+  {
+    "asset": "ArmChair_01",
+    "file": "Assets\\Resources\\Models\\ArmChair_01\\Normal.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/ArmChair_01/Armchair_01_nor_gl_2k.jpg",
+    "license": "CC0",
+    "sha256": "0bce11bc21a3259e13429e65bedc1cf28d2a672fc6dde6dc86f45e8b8f8a9af4"
+  },
+  {
+    "asset": "CoffeeTable_01",
+    "file": "Assets\\Resources\\Models\\CoffeeTable_01\\Model.fbx",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/CoffeeTable_01/CoffeeTable_01_2k.fbx",
+    "license": "CC0",
+    "sha256": "54802312b8f92e330a9a3f781c9b00c7accc50d59ef024661125da756b2837a1"
+  },
+  {
+    "asset": "CoffeeTable_01",
+    "file": "Assets\\Resources\\Models\\CoffeeTable_01\\Color.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CoffeeTable_01/CoffeeTable_01_diff_2k.jpg",
+    "license": "CC0",
+    "sha256": "dd68b0dd42123f41bfbdba7a3ad354137ace6bd7a89c83cc167971a547cbf67d"
+  },
+  {
+    "asset": "CoffeeTable_01",
+    "file": "Assets\\Resources\\Models\\CoffeeTable_01\\Normal.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CoffeeTable_01/CoffeeTable_01_nor_gl_2k.jpg",
+    "license": "CC0",
+    "sha256": "c8d65c8d1d718a63dff1acd4f524f44c05508ac53c6a02ea178174964b02a7e4"
+  },
+  {
+    "asset": "old_bed_frame",
+    "file": "Assets\\Resources\\Models\\old_bed_frame\\Model.fbx",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/old_bed_frame/old_bed_frame_2k.fbx",
+    "license": "CC0",
+    "sha256": "ac2a0abc6f621fe48e0887924513d6e994e99f529f09b34c79b3dafdbf02f193"
+  },
+  {
+    "asset": "old_bed_frame",
+    "file": "Assets\\Resources\\Models\\old_bed_frame\\Color.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/old_bed_frame/old_bed_frame_diff_2k.jpg",
+    "license": "CC0",
+    "sha256": "8d13978696f61b8f1428769a1ab6fc2f98559d87dd66c2f63308d881bc5fa5a8"
+  },
+  {
+    "asset": "old_bed_frame",
+    "file": "Assets\\Resources\\Models\\old_bed_frame\\Normal.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/old_bed_frame/old_bed_frame_nor_gl_2k.jpg",
+    "license": "CC0",
+    "sha256": "e410cda24e16dd827ad2c2beffff5cbea571c8a8ac4038dccb1f1919d7f90795"
+  },
+  {
+    "asset": "wooden_bookshelf_worn",
+    "file": "Assets\\Resources\\Models\\wooden_bookshelf_worn\\Model.fbx",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/wooden_bookshelf_worn/wooden_bookshelf_worn_2k.fbx",
+    "license": "CC0",
+    "sha256": "632e521d9c4ba1811c465f9f3c509b9ca0bd2b5fe2be6c79812a345762cf4749"
+  },
+  {
+    "asset": "wooden_bookshelf_worn",
+    "file": "Assets\\Resources\\Models\\wooden_bookshelf_worn\\Color.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/wooden_bookshelf_worn/wooden_bookshelf_worn_diff_2k.jpg",
+    "license": "CC0",
+    "sha256": "2a6b9d7bff3a02aaa07cb9de30f57673bdc4b8c43ed50c95f4bb7eeaed3a5468"
+  },
+  {
+    "asset": "wooden_bookshelf_worn",
+    "file": "Assets\\Resources\\Models\\wooden_bookshelf_worn\\Normal.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/wooden_bookshelf_worn/wooden_bookshelf_worn_nor_gl_2k.jpg",
+    "license": "CC0",
+    "sha256": "90f575dc0623901240c54a1b617833584f1f18e56b6f1ddd11a6a04e84c62b07"
+  },
+  {
+    "asset": "ClassicNightstand_01",
+    "file": "Assets\\Resources\\Models\\ClassicNightstand_01\\Model.fbx",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/ClassicNightstand_01/ClassicNightstand_01_2k.fbx",
+    "license": "CC0",
+    "sha256": "e02f3cb592e2fe590b869b81a4f06da5942f4038b5b6843108fab102a27a8188"
+  },
+  {
+    "asset": "ClassicNightstand_01",
+    "file": "Assets\\Resources\\Models\\ClassicNightstand_01\\Color.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/ClassicNightstand_01/ClassicNightstand_01_diff_2k.jpg",
+    "license": "CC0",
+    "sha256": "28098ebfce9c903d8887f9f5b6af01b7a1c14bb9e5dd18ad122597c3e674b17d"
+  },
+  {
+    "asset": "ClassicNightstand_01",
+    "file": "Assets\\Resources\\Models\\ClassicNightstand_01\\Normal.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/ClassicNightstand_01/ClassicNightstand_01_nor_gl_2k.jpg",
+    "license": "CC0",
+    "sha256": "6dacc7b985c4be4ac627ebfc289caf5084994374a9495dec8341c258be706c89"
+  },
+  {
+    "asset": "dining_table",
+    "file": "Assets\\Resources\\Models\\dining_table\\Model.fbx",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/dining_table/dining_table_2k.fbx",
+    "license": "CC0",
+    "sha256": "a19925ee0b64ccf92231d858951672d134b3e67babf3408736a1aba3ec03e026"
+  },
+  {
+    "asset": "dining_table",
+    "file": "Assets\\Resources\\Models\\dining_table\\Color.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dining_table/dining_table_diff_2k.jpg",
+    "license": "CC0",
+    "sha256": "47dc7c58b5c37193195cbf91068134562bc6becbd0a2ab5da44bed858b841110"
+  },
+  {
+    "asset": "dining_table",
+    "file": "Assets\\Resources\\Models\\dining_table\\Normal.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/dining_table/dining_table_nor_gl_2k.jpg",
+    "license": "CC0",
+    "sha256": "1c3a85fce0878216bd28e33afaf8305d674489486c0a78396ce0bd3d45c3c74f"
+  },
+  {
+    "asset": "desk_lamp_arm_01",
+    "file": "Assets\\Resources\\Models\\desk_lamp_arm_01\\Model.fbx",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/desk_lamp_arm_01/desk_lamp_arm_01_2k.fbx",
+    "license": "CC0",
+    "sha256": "ff2dd235926e553e335b285d45925881862b9eadeeba0c1e09f6ab97451df79d"
+  },
+  {
+    "asset": "desk_lamp_arm_01",
+    "file": "Assets\\Resources\\Models\\desk_lamp_arm_01\\Color.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/desk_lamp_arm_01/desk_lamp_arm_01_diff_2k.jpg",
+    "license": "CC0",
+    "sha256": "c5f8c5be367a40585f89ce0aeac0224e36146eef63c12864222af080a9784869"
+  },
+  {
+    "asset": "desk_lamp_arm_01",
+    "file": "Assets\\Resources\\Models\\desk_lamp_arm_01\\Normal.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/desk_lamp_arm_01/desk_lamp_arm_01_nor_gl_2k.jpg",
+    "license": "CC0",
+    "sha256": "289e2b9a9d0dcbc02dd8d8dbe612380c13dc48fb7c4484fb39c303f6cf822379"
+  }
+]
